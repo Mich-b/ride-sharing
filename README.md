@@ -24,7 +24,7 @@ On the other hand, the instructions to set up your own experiments by cloning th
 
 ### Get the code
 First clone into the repo  
-`git clone https://github.com/JohanPeeters/ride-sharing.git`  
+`git clone https://github.com/Mich-b/ride-sharing.git`  
 `cd ride-sharing`
 
 Create a .env file in the root directory of the project:
